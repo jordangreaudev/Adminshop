@@ -1,0 +1,82 @@
+shop:
+  blocs:
+    "STONE_0": {price: 2.0, buyable: true, sellable: true}
+    "COBBLESTONE_0": {price: 1.0, buyable: true, sellable: true}
+    "ANDESITE_0": {price: 2.0, buyable: true, sellable: true}
+    "DIORITE_0": {price: 2.0, buyable: true, sellable: true}
+    "GRANITE_0": {price: 2.0, buyable: true, sellable: true}
+    "DIRT_0": {price: 1.0, buyable: true, sellable: true}
+    "SAND_0": {price: 2.0, buyable: true, sellable: true}
+    "GRAVEL_0": {price: 2.0, buyable: true, sellable: true}
+    "OBSIDIAN_0": {price: 60.0, buyable: true, sellable: true}
+    "GLASS_0": {price: 5.0, buyable: true, sellable: true}
+
+  bois:
+    LOG_0: {price: 10.0, buyable: true, sellable: false}
+    LOG_1: {price: 10.0, buyable: true, sellable: false}
+    LOG_2: {price: 10.0, buyable: true, sellable: false}
+    LOG_3: {price: 12.0, buyable: true, sellable: false}
+    LOG_2_0: {price: 12.0, buyable: true, sellable: false}
+    LOG_2_1: {price: 12.0, buyable: true, sellable: false}
+  minerais:
+    COAL_0: {price: 5.0, buyable: true, sellable: true}
+    IRON_INGOT_0: {price: 50.0, buyable: true, sellable: true}
+    GOLD_INGOT_0: {price: 100.0, buyable: true, sellable: true}
+    REDSTONE_0: {price: 20.0, buyable: true, sellable: true}
+    EMERALD_0: {price: 200.0, buyable: true, sellable: true}
+    DIAMOND_0: {price: 500.0, buyable: false, sellable: true}
+    QUARTZ_0: {price: 40.0, buyable: true, sellable: true}
+  nourriture:
+    BREAD_0: {price: 10.0, buyable: true, sellable: true}
+    COOKED_BEEF_0: {price: 25.0, buyable: true, sellable: true}
+    COOKED_CHICKEN_0: {price: 20.0, buyable: true, sellable: true}
+    COOKED_MUTTON_0: {price: 20.0, buyable: true, sellable: true}
+    CARROT_0: {price: 5.0, buyable: true, sellable: true}
+    APPLE_0: {price: 10.0, buyable: true, sellable: true}
+    GOLDEN_APPLE_0: {price: 900.0, buyable: true, sellable: true}
+    POTATO_0: {price: 5.0, buyable: true, sellable: true}
+    BEETROOT_0: {price: 5.0, buyable: true, sellable: true}
+  agriculture:
+    WHEAT_0: {price: 5.0, buyable: true, sellable: true}
+    SUGAR_CANE_0: {price: 5.0, buyable: true, sellable: true}
+    CACTUS_0: {price: 5.0, buyable: true, sellable: true}
+    NETHER_WART_0: {price: 15.0, buyable: true, sellable: true}
+  decoration:
+    WOOL_0: {price: 5.0, buyable: true, sellable: true}
+    HARD_CLAY_0: {price: 8.0, buyable: true, sellable: true}
+    CARPET_0: {price: 3.0, buyable: true, sellable: true}
+    PAINTING_0: {price: 20.0, buyable: true, sellable: true}
+    ITEM_FRAME_0: {price: 20.0, buyable: true, sellable: true}
+  redstone:
+    REDSTONE_0: {price: 5.0, buyable: true, sellable: true}
+    HOPPER_0: {price: 150.0, buyable: true, sellable: true}
+    DISPENSER_0: {price: 50.0, buyable: true, sellable: true}
+    DROPPER_0: {price: 30.0, buyable: true, sellable: true}
+    OBSERVER_0: {price: 60.0, buyable: true, sellable: true}
+    PISTON_BASE_0: {price: 40.0, buyable: true, sellable: true}
+    PISTON_STICKY_BASE_0: {price: 60.0, buyable: true, sellable: true}
+    REDSTONE_COMPARATOR_0: {price: 30.0, buyable: true, sellable: true}
+    LEVER_0: {price: 5.0, buyable: true, sellable: true}
+  nether:
+    NETHERRACK_0: {price: 2.0, buyable: true, sellable: true}
+    GLOWSTONE_0: {price: 20.0, buyable: true, sellable: true}
+    SOUL_SAND_0: {price: 5.0, buyable: true, sellable: true}
+    BLAZE_ROD_0: {price: 80.0, buyable: true, sellable: true}
+  drops:
+    ROTTEN_FLESH_0: {price: 5.0, buyable: true, sellable: true}
+    BONE_0: {price: 5.0, buyable: true, sellable: true}
+    STRING_0: {price: 5.0, buyable: true, sellable: true}
+    SULPHUR_0: {price: 15.0, buyable: true, sellable: true}
+    LEATHER_0: {price: 10.0, buyable: true, sellable: true}
+    FEATHER_0: {price: 5.0, buyable: true, sellable: true}
+    SLIME_BALL_0: {price: 20.0, buyable: true, sellable: true}
+    SPIDER_EYE_0: {price: 10.0, buyable: true, sellable: true}
+  divers:
+    BUCKET_0: {price: 20.0, buyable: true, sellable: true}
+    NAME_TAG_0: {price: 100.0, buyable: true, sellable: true}
+    SADDLE_0: {price: 150.0, buyable: true, sellable: true}
+    COMPASS_0: {price: 30.0, buyable: true, sellable: true}
+    WATCH_0: {price: 30.0, buyable: true, sellable: true}
+    ENDER_PEARL_0: {price: 100.0, buyable: true, sellable: true}
+    BLAZE_POWDER_0: {price: 20.0, buyable: true, sellable: true}
+    GHAST_TEAR_0: {price: 100.0, buyable: true, sellable: true}

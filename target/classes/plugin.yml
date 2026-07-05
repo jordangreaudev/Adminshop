@@ -1,0 +1,11 @@
+name: AdmionShop
+version: 1.0
+main: fr.pharahosting.admionshop.Main
+api-version: 1.12
+depend: [Vault]
+commands:
+  shop:
+    description: Ouvre la boutique
+  shopreload:
+    description: Recharge le shop
+    permission: shop.admin
